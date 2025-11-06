@@ -1,1 +1,2 @@
-# netflix movies and tV show data analysis using sql
+# netflix movies and TV show data analysis using sql
+[NetflixLogo](C:\Users\Dell\Downloads)
