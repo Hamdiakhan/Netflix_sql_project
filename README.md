@@ -1,2 +1,2 @@
 # netflix movies and TV show data analysis using sql
-[NetflixLogo](C:\Users\Dell\Downloads)
+[NetflixLogo](https://github.com/Hamdiakhan/Netflix_sql_project/blob/main/logo.png)
